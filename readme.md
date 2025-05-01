@@ -22,3 +22,6 @@ At its core, this strategy tries to keep open source sustainable — so develope
 
  I am not a lawyer and I would like, if it is interesting to someone else, get valuable comments.
 
+## License
+
+License to the repository [CC0-1.0](./CC0-1.0.txt)
