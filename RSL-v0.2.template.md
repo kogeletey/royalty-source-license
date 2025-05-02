@@ -17,7 +17,7 @@ This License does **not** grant any rights to use the Software for **non-commerc
 This License applies only if:
 - The Software is used as part of a **commercial product or service**;
 - The source code of that product or service is **not made publicly available**;
-- And the product or service generates revenue directly or indirectly from the functionality provided by the Software.
+- And the product or service generates revenue directly from the functionality provided by the Software.
 
 ## 3. Requirements for License Compliance
 
